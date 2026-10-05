@@ -61,8 +61,6 @@ git remote -v
 VS Code에서 **File → Open Folder**를 선택해 클론한 `docker-cicd-seminar` 폴더를 엽니다. **Terminal → New Terminal**로 실습 터미널을 열어주세요.
 
 ```text
-Documents/GitHub/
-├── 기존-동아리-레포/
 └── docker-cicd-seminar/
     ├── README.md
     ├── main.py
