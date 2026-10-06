@@ -112,7 +112,7 @@ WSL 설치가 실패하거나 가상화 관련 오류가 나오면 메시지를 
 - **M1/M2/M3 등 Apple 칩**: [Apple Silicon용 Docker.dmg 다운로드](https://desktop.docker.com/mac/main/arm64/Docker.dmg)
 - **Intel 프로세서**: [Intel용 Docker.dmg 다운로드](https://desktop.docker.com/mac/main/amd64/Docker.dmg)
 
-칩을 모르겠다면 Apple 메뉴 → **이 Mac에 관하여**에서 확인해주세요.
+칩을 모르겠다면 Apple 메뉴에서 확인해주세요.
 
 1. 다운로드한 **Docker.dmg** 파일을 더블클릭합니다.
 2. 열린 창에서 **Docker 아이콘을 Applications 폴더로 드래그**합니다.
@@ -123,9 +123,6 @@ WSL 설치가 실패하거나 가상화 관련 오류가 나오면 메시지를 
 
 Docker Desktop에는 Docker Compose가 포함되어 있어 별도 Compose 설치가 필요하지 않습니다. [공식 Compose 설치 안내](https://docs.docker.com/compose/install/)
 
-### Linux를 사용하는 경우
-
-[Docker Engine 설치 안내](https://docs.docker.com/engine/install/)와 [Compose 플러그인 설치 안내](https://docs.docker.com/compose/install/linux/)를 따라 준비합니다. 아래 검증 명령이 정상 실행되는 상태로 준비해주세요. 권한 오류가 나면 세미나 전에 미리 알려주세요.
 
 ## 4. Docker 설치 확인
 
